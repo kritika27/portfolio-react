@@ -3,12 +3,12 @@ import React from 'react'
 const Skills = () => {
   return (
     
-  <section id="skills" class="icons bg-light center">
+  <section id="skills" className="icons bg-light center">
     <h2>My Skills</h2>
-    <div class="bottom-line"></div>
-    <div class="flex-items-about">
-      <div class="skill-column">
-        <i class="fas fa-desktop fa-2x"></i>
+    <div className="bottom-line"></div>
+    <div className="flex-items-about">
+      <div className="skill-column">
+        <i className="fas fa-desktop fa-2x"></i>
         <div>
           <h3>FRONTEND</h3>
           <p>
@@ -16,8 +16,8 @@ const Skills = () => {
           </p>
         </div>
       </div>
-      <div class="skill-column">
-        <i class="fa fa-server fa-2x"></i>
+      <div className="skill-column">
+        <i className="fa fa-server fa-2x"></i>
         <div>
           <h3>BACKEND</h3>
           <p>
@@ -25,8 +25,8 @@ const Skills = () => {
           </p>
         </div>
       </div>
-      <div class="skill-column">
-        <div><i class="fas fa-file-alt fa-2x"></i>
+      <div className="skill-column">
+        <div><i className="fas fa-file-alt fa-2x"></i>
           <div>
             <h3>OTHERS</h3>
             <p>
